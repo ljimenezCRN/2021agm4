@@ -4,7 +4,7 @@ body{
   font-weight: 20px;
 }
 
-div {
+.Cuadros {
   height: 150px;
   width: 200px;
   background-clor: lightcoral;
