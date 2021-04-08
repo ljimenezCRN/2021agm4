@@ -1,5 +1,5 @@
 body{
-  background-color: cyan;
+  background-color: pink;
   font-family: verdana;
   font-weight: 20px;
 }
@@ -7,7 +7,7 @@ body{
 li {
   height: 150px;
   width: 200px;
-  background-color: pink;
+  background-color: white;
   margin: 10px;
 }
   
